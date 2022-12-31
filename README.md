@@ -1,16 +1,16 @@
-## Wordpress Design Projects 🖥️
+## 🖥️ Wordpress Design Projects
 
 [5aletEl3yal 👩‍🍼 - Child homecare service website](https://khalteleyal.netlify.app/)
 
 [WanasCare 🧑‍⚕️ - Eldry Home care service website](https://wanascare.netlify.app)
 
-## Mobile Projects 📱
+## 📱 Mobile Projects
 
 [My Soundboard 🎶 - Free custom sounboard maker mobile app](https://github.com/andronasef/mysoundboard-app)
 
 [Tarneemna 🎶 - Easy way to download Arabic Worships](https://github.com/andronasef/tarneemna-app)
 
-## Frontend Projects 💻
+## 💻 Frontend Projects
 
 [My Portfolio 💼 - My personal website](https://andronasef.github.io)
 
@@ -24,17 +24,17 @@
 
 [HerosList 🦸 - Checklist list for Sunday school servants](https://andronasef.github.io/heroslist/)
 
-## Fullstack Projects 👨‍💻
+## 👨‍💻 Fullstack Projects
 
 [Shortener 🔗 - URL shortening Site](https://andronasef.github.io/shortener)
 
-## For Fun 🚀
+## 🚀 For Fun
 
 [Product Hunt Twitter Bot 🐦 - Get the best ⭐️ from ProductHunt 🕵 in Twitter](https://github.com/andronasef/producthuntbot)
 
 [Is This Even Real? 🤥 - You are the detective in this game = You must detect fake images](https://andronasef.github.io/is-this-even-real-game)
 
-## Open Source 🙋
+## 🙋 Open Source
 
 [Auto Translate 🇪🇬 - A javascript script to translate your website automatically](https://andronasef.github.io/autotranslate)
 

@@ -16,9 +16,9 @@
 
 [Flutter Awesome Tips 💡 - Tips and Tricks for Flutter Developers](https://andronasef.github.io/flutter-awesome-tips/)
 
-[PublicApis ☁️ - UI for Public Apis using Svelte](https://andronasef.github.io/publicapis/)
+[PublicApis ☁️ - UI for Public Apis Github Repo](https://andronasef.github.io/publicapis/)
 
-[EGNews 📰 - Site to discover the latest trending news in Egypt](https://andronasef.github.io/egnews)
+[EGNews 📰 - Discover the latest trending news in Egypt](https://andronasef.github.io/egnews)
 
 [Sleep Calculator 💤 - Discover best time to wake up](https://andronasef.github.io/sleepcalculator/)
 
@@ -39,3 +39,7 @@
 [Auto Translate 🇪🇬 - A javascript script to translate your website automatically](https://andronasef.github.io/autotranslate)
 
 [Iconify Flutter 🧳 - Providing icon sets for flutter framework](https://github.com/andronasef/iconify_flutter)
+
+## 🛠️ Useful Tools
+
+[Notion Icons 📦 - +100k icons just for your notion pages](https://www.producthunt.com/products/notion-icons-2)

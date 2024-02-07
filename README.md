@@ -26,8 +26,6 @@
 
 [Sleep Calculator 💤 - Discover best time to wake up](https://andronasef.github.io/sleepcalculator/)
 
-[HerosList 🦸 - Checklist list for Sunday school servants](https://andronasef.github.io/heroslist/)
-
 ## 🙋 Open Source
 
 [Iconify Flutter 🧳 - Providing all needed icons for every flutter developer](https://github.com/andronasef/iconify_flutter)
